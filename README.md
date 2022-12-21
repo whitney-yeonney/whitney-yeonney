@@ -1,16 +1,33 @@
+# Hi there 👋
+## Hi there 👋
 ### Hi there 👋
+#### Hi there 👋
+##### Hi there 👋
 
-<!--
-**whitney-yeonney/whitney-yeonney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
+**볼드** <br>
+*이틀릭* <br>
+~~스트라이크~~ <br>
 
-Here are some ideas to get you started:
+> 이건 인용구 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 1번 
+- 2번
+- 3번 
+
+[네이버가자](https:/naver.com)
+
+|Header|Description|
+|--|--|
+|Cell1|Cell2|
+|Cell1|Cell2|
+|Cell1|Cell2|
+|Cell1|Cell2|
+
+
+```
+print('파이썬')
+```
+
+😏
